@@ -1,0 +1,6 @@
+{
+  "name": "Mine Subsidence Early Warning System - SIH26025",
+  "description": "AI-enabled Low Cost Real Time Mine Subsidence Monitoring, Prediction and Early Warning System for Underground Coal Mines (Ministry of Coal) featuring ESP32 Wokwi hardware simulation, Fukuzono method AI/ML, and GIS rescue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
